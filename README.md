@@ -18,7 +18,7 @@ Self-Adaptive Visual Navigation using Meta-Learning</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Navigation-Papers/blob/master/vnn(6).pdf" style="text-decoration:none;">Self-Monitoring Navigation Agent via Auxiliary Progress Estimation</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Navigation-Papers/blob/master/vnn(7).pdf" style="text-decoration:none;">The Regretful Agent: Heuristic-Aided Navigation through Progress Estimation</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Navigation-Papers/blob/master/vnn(8).pdf" style="text-decoration:none;">The Regretful Agent: Heuristic-Aided Navigation through Progress Estimation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Navigation-Papers/blob/master/vnn(8).pdf" style="text-decoration:none;">Visual Navigation for Mobile Robots: A Survey</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Navigation-Papers/blob/master/vnn(9).pdf" style="text-decoration:none;">Scaling and Benchmarking Self-Supervised Visual Representation Learning</a></li>
   
    
@@ -62,6 +62,9 @@ Deep Learning-powered Visual Navigation Engine for Autonomous Nano-UAVs</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Navigation-Papers/blob/master/vnn(28).pdf" style="text-decoration:none;">One-Shot Informed Robotic Visual Search in the Wild</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Navigation-Papers/blob/master/vnn(29).pdf" style="text-decoration:none;">Learning Object Relation Graph and Tentative Policy for Visual Navigation</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Navigation-Papers/blob/master/vnn(29).pdf" style="text-decoration:none;">Learning Object Relation Graph and Tentative Policy for Visual Navigation</a></li> 
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Navigation-Papers/blob/master/vnn(30).pdf" style="text-decoration:none;">On Fundamental Elements of
+Visual Navigation Systems</a></li>  
 
 </ul>
